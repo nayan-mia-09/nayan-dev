@@ -42,8 +42,8 @@ export const PROJECTS = [
     description:
       "A personal developer portfolio showcasing skills, projects, and contact information built using Bootstrap and custom CSS.",
     technologies: ["HTML", "CSS", "Bootstrap"],
-    github: "https://github.com/nayan-mia-09/personal-portfolio-v1",
-    liveDemo: "https://nayandev.netlify.app/",
+    github: "https://github.com/nayan-mia-09/nayan-dev",
+    liveDemo: "https://nayandevdotcom.netlify.app/",
   },
   {
     title: "Landing Page Website",
